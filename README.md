@@ -15,9 +15,9 @@ npm run serve
 npm run build
 ```
 
-### Run your unit tests
+### Test cases are not included 
 ```
-npm run test:unit
+
 ```
 
 ### Customize configuration
